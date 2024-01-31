@@ -1,0 +1,1301 @@
+Dikesh Ray  
+Mobile: 7827137507  
+Email: Dikesh.ray@gmail.com  
+ 
+Subject: Cover Letter – Software Developer  
+ 
+Dear Sir/Madam,  
+ 
+I am MCA degree holder having 5.4 years of experience in analyzing, designing and developing 
+web applications. At present, working with BLS international Services ltd. My primary involvement 
+is in developing web and windows application using C#, ADO.Net, ASP.Net, WCF, MVC, Web 
+Services, JQuery, Ajax, Json, AngularJS, Ms Azure and SQL Server and responsible for complete 
+implementation and testing.  
+I have extensive experience in C#, ASP.Net, ADO.Net, WCF, MVC, Web Services, JQuery, Ajax, 
+Angular JS, Ms Azure and SQL Server 2008 RD2 , 12,14.  
+ 
+Skills  : 
+● Experience in object oriented design and  development.  
+● Having good working knowledge of C#, ASP.Net, ADO.Net, WCF, MVC, Web Services, 
+JQuery with Ajax, Json , Angular JS, Ms Azure  etc. 
+● Experience in relational databases design and development ( SQL Server2008 RD2 and 
+2012, 2014 ). 
+● Having good knowledge of HTML, CSS, BOOTSTRAP v5 JavaScript, JQuery , JSON and 
+Ajax, Angular js 4 & 5, REACT  js, 
+● Experience with E-commerce  site. 
+● Good team player and also have ability to work independently in a time sensitive 
+environment.  
+ 
+Please find enclosed copy of my CV for your consideration. Feel free to ask if any further 
+information needed. Thank you for your time, consideration, and forthcoming response.  
+Regards, 
+Dikesh ray  
+ 
+Dikesh Ray  
+E-676, street No -10, W est vinod nagar, New Delhi(110092) 
+Mobile: 7827137507  
+Email:  Dikesh.ray@gmail.com  Dikesh  Ray Mobile no -7827137507  
+Email:  Dikesh.ray@gmail.com  
+ 
+ 
+OBJECTIVE  
+Appetite to learn new things, Team player with Strong analytical and leadership skills, Problem - 
+solving and decision -making skills. A person waiting to take up the challenging a ssignments and 
+meet the requirements in total and on time.  
+ 
+Work Experience : 
+● Working with BLS international Services ltd . as a Software Developer from 05th 
+June 2017 to till  date.  
+● Working with BRAWN SOFTECH . as a Software Developer from 20th September 2016 
+to 31th March 2017.  
+● Working with HYBEC IT SOLUTIONS LIMITED . as a Software Developer from 01st 
+June 2015 to 31th August 2016.  
+ 
+Trainee Experience : 
+● Six months Industrial Training in Microsoft .Net at Swarnim  InfoSoft Pvt. Ltd. , 
+Noida  (U.P).  
+ 
+TECHNICAL SKILLS  
+ 
+Technical  Domain  Technologies  Used  Total Experience  (Yrs.)  
+ 
+Language  C# 4.5 
+Web Technologies  ASP.Net, JavaScript, HTML  4.5 
+ Web Services, WCF, JQuery, Json and Ajax  4 
+ AngularJS, MVC, Ms Azure  2 
+Databases  SQL Server,  4 
+IDE Tools  Visual Studio  4.5 
+ 
+EDUCATIONAL QUALIFICATION  
+● MCA from UPTU with  70%.  
+● BCA from JAMIA HAMDARD University with 71%, New  delhi.  
+● 10+2 from Bihar intermediate examination council,  Patna.  
+● 10th from Bihar school examination board,  Patna.  EXTRA CURRICULAR ACTIVITIES  
+• Awarded as ‘Main Anchor’ in “E-Kranti -an annual fest” in IME  Ghaziabad.  
+• Organized many Events( Technical n Cultural Activities )in E -Kranti in IME  Campus  
+• Organized and participated in National Conference  2012.  
+ 
+Project Details  
+Project #1: DRA (Drug Regulatory system)  
+Client  : Brawn Laboratories  Limited  
+Environment  : Asp.Net with C#, ADO.Net, Web Services, WCF, Java  Script, 
+JQuery and SQL Server 2008  rd2. 
+Role  : Software  Developer  
+Team  Size : 6 member per modules.  
+Project  Description  : DRA is a DOT NET based web - Application to solve the problem of 
+managing all the Resources of the Drug. It has N -modules (Marketing Management, Regulatory, 
+Production Management) and N -point Login (1.Admin -Login 2.Department login)to Separate the 
+accessibility of the application. Web site  http://dra.brawnlabs.com  
+Roles & Responsibilities:  
+● Preparing / reviewing the functional requirement document.  
+● Performing daily coordination with onsite team for client’s business  requirement.  
+● Implemented business logic UI, Input  Validation.  
+● Developed the packages, procedures, View, Function used by the  application.  
+ 
+Project #2: Chandni chowk restaurant  
+Environment  : Asp.Net with C#, ADO.Net, Web Services, WCF, Java  Script,  
+JQuery, AngularJS And SQL Server 2008.  
+Role  : Software  Developer  
+Team  Size : 4 member  
+Project Description : Chandni chowk restaurant is a DOT NET based web -Application to be provide 
+the facility Online order fast food, dinner, lunch etc. It has fill the three modules (customer Management, 
+User Management, Items Management)and Two -end Login(1.Admin -Login2.User -Login)to Separate the 
+accessibility of the application. http://chandnichowkrestaurant.com  
+Roles & Responsibilities:  
+● Performing daily coordination with onsite team for client’s business  requirement.  
+● Implemented business logic UI, Input  Validation.  
+● Developed the stored procedures, Synonyms, View, Function used by the  application.  Project #3:OFFIS(Online,Field,force,Information,System)  
+Client  : Brawn Laboratories  Limited  
+Environment  : C#.Net , ADO.Net , Asp.Net , Web Services, Java Script  , 
+JQuery , Json  , Ajax , SQL Server 2008.  
+Role  : Software  Developer  
+Team  Size : 6 member per  modules.  
+ 
+Project Description: OFFIS provide valuable information on Daily visits to Doctors, Chemists, 
+Stockiest , Stocks of Samples/Gifts with Reps, and many more. After thorou ghly analyzing the industry 
+and the way field staff work in the field ,we feel the urgent need to develop simple and user -friendly FFA 
+Software, to manage day -to-day reporting process of the field force. Years of experience emerged as an 
+unbeatable product  that offers unmatched features, services, enables speedy and hassle -free reporting of 
+field force to their respective reporting heads. OFFIS makes management completely free from the 
+tedious and time taking procedure of manual reporting and paper work and  it can be save precious 
+resources in terms of TIME, MONEY and EFFORT, making the process more efficient and  transparent . 
+ 
+Roles & Responsibilities : 
+ 
+● Preparing / reviewing the functional requirement document.  
+● Implemented business logic, UI, Input Validation and Database  Design.  
+● Developed the stored procedures used by the  application.  
+ 
+Project #4: BLS ECMS  
+Client  : BLS International Service  ltd 
+Environment  : Asp.Net with C#, ADO.Net, Java Script,  Ajax,  
+Web Services, SQL Server 2012.  
+Role  : Software  Developer  
+Team  Size : 8 member per  modules.  
+ 
+Project Description: Smart office is a dot net based web Application to solve the problem of smart 
+office It has five modules (Login Form, Add Employee details, check Employee details, check to the emp 
+leave count and apply to the leave, download Pay Slip, view the time table,)There is many categories 
+through which we can resolve the Employee queries. https://blsinternational.org/hrms/login.html  
+ 
+Roles & Responsibilities:  
+● Implemented business logic & UI, Input Validation and Database Design with  team.  
+● Developed the stored procedures used by the  application.  Project #5: BLS Attestation  
+Client  : BLS International Service  ltd 
+Environment  : C#.Net , ADO.Net , Asp.Net , Web Services, Java Script  , 
+JQuery , Json , Ajax , SQL Server 2008.  
+Role  : Software  Developer  
+Team  Size : 8 member per  modules.  
+ 
+Project Description: The BLS Attestation System is a DOT NET based web -Application to be 
+provide the facility Online Visa passport OCI,PCC and this type of all application to apply online and 
+provide the facility. And resolve the all this type of queries.  
+ 
+Roles & Responsibilities:  
+● Implemented business logic & UI, Input Validation and Database Design with  team.  
+● Developed the stored procedures used by the  application.  
+● Preparing / reviewing the functional requirement  document.  
+ 
+PERSONAL DETAILS: - 
+Father’s  Name:   Kanhaiya ray 
+Date of  Birth  : 04-feb-1990 
+Marital  Status  :  Married  
+Nationality  : Indian 
+Language  : Hindi,  English  
+Strengths  : Self-Confidence & Positive  Attitude  
+Hobbies  : Software development and Listening to the Adhyatma  knowledge  
+ 
+I do hereby declare that all the above information furnished by me are true and correct to the best 
+of my knowledge and belief.  
+ 
+ 
+ 
+ 
+ 
+Date  : Dikesh Ray  
+
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOFTWARE DEVELOPER 
+S. K.ENTERPPRISES (SPIKEZONE®)  / NEW DELHI 110043 / 6th January 2019 to Present. 
+ Structure several internal systems comprising admin login Functions, web application as well as design APIs 
+built in python. 
+ Successfully installed APIs on Google, Shared and Heroku cloud servers. 
+ Successfully time to time updating of database and web application designs. 
+ Successfully more than three analysis and research projects based on machine learning. 
+ Designed and implemented Python with flask and Django web application. 
+ Successful designed one window desktop and two cross platform moderate level mobile applications. 
+ 
+ 
+ 
+SOFTWARE DEVELOPMENT TRAINEE  
+Matrix Geo Solutions Pvt. Ltd . / Dwarka Mor New Delhi/1st June 2018 to 5th January 2019 
+ Successfully maintained the data base and classes modules of web application in JavaScript, MySql Basic 
+Queries. 
+ Successfully contribution to design and implement the modules of Windows Based Geo Mapping Desktop and 
+Cloud Application in C# and JavaScript. 
+ Successfully installed, integrate, deployed and maintained the web application on shared hosting cloud panels. 
+ 
+ 
+ 
+Language  Level Framework  Pattern Platforms  
+Python Proficient  Flask, Django, Machine  
+Learning, Data Analytics. Simple, MVC Web Applications, APIs,  
+Analysis, Integration. 
+SQL Moderate  MY SQL , SQL SERVER,  
+SQL  Lite JOINS, STORED 
+PROCEDURES,QUERIES  Web, Desktop  
+HTMl,CSS3, AJAX, 
+JAVASCRIPT, JQuery PROFICIENT  BOOTSTRAP, Apache 
+Cordova, Electron. JS Simple Web,Mobile,Desktop  
+Node JS Known   Desktop,Mobile,Console 
+       
++91.7838679387  
+thimanshu039@yahoo.comHIMANSHU TARIF   
+WORK EXPERIENCE : 2 Years 5 Months 
+RESUME OBJECTIVE  
+ 2+ of experience facilitating cutting-edge solutions with a wide range of Mobile, Web, Educational, and Analysis 
+application and technology skills. 
+ Proven ability to leverage full-stack knowledge and experience to build interactive and user- centered website 
+designs to scale. 
+ Good expertise in web hosting, integration, handling and maintenance on cloud server and shared hosting. 
+ Good command to summarize predicts and analyzes the data by machine learning basis. 
+ Good command to develop cross platform Mobile and desktop applications. 
+ Good ability to work on data structure and algorithm specifically on machine learning and statistical graphs 
+analysis. 
+ 
+Work Experience  Resume 
+DATE OF BIRTH: 04TH JULY 1994     
+AGE: 26 
+ 
+Language Skills 
+Internships LINKEDIN : https://www.linkedin.com/in/himanshu -tarif-
+744214211/  
+LOCATION: Najafgarh, New Delhi    
+  
+ 
+ 
+ 
+ Certification in User-Interface Development From Xperia Technologies Pvt. Ltd.(June 2016 to December 2016 ). 
+ Certification in Data Science with Machine Learning with Python from Antrix Academy of Data Science (Sept 
+2019 to Dec 2019) 
+ 
+Project Name  Technology  Url 
+Vocabulary Process System  With 
+Android Application Python, Flask, Html5, CSS3, 
+Bootstrap, JavaScript, jQuery, My 
+SQL, Web API, Apache Cordova http://vocabulary.onlinestudyclasses.com/  
+Organic Food Web site  Html5, CSS3, Bootstrap, JavaScript, 
+jQuery,Django http://createcreativeworld.com/  
+Bike Sharing Trends Analysis and 
+Datasets Python, Numpy, Pandas, 
+Matplotlib,Sklearn https://github.com/THIMANSHU039/  
+Personalized Learning by Twit ter 
+Tweets Datasets Python, Numpy, Pandas, 
+Matplotlib,Sklearn https://github.com/THIMANSHU039/  
+Spikezone Web application  Html5, CSS3 , Bootstrap, JavaScript, 
+jQuery,MySQL, Django http://spikezone.co.in/  
+ 
+  
+Office Software  MS-Office (Word, PowerPoint, Excel)  
+Operating System  Linux, Mac OS, Windows  
+Tools Used  Visual Studio 2017 , Visual Studio Code  
+Python Tools & 
+Libraries Jupyter, Anaconda, Numpy, Pandas, Scipy, Matplotlib  
+Cloud Used  Heroku, Google Cloud ,  Git Commands  
+ 
+ 
+Languages  : Hindi (Fluent), English (Fluent)  Personal Interests  : Gaming, Running, Football  
+Declaration:  I Himanshu Tarif , hereby declare that the information contained herein is true and correct to the 
+best of my knowledge and belief 
+. 
+Himanshu  Tarif___________                                                                                                                    Najafgarh, New Delhi                                              
+ School/College  Board/University  Qualification  Year Marks Division 
+R C Institute of Technology  Guru Gobind Singh 
+Indraprastha University Master In Computer 
+Application 2018 7.5 
+CGPA First 
+Fair Field Institute Of 
+Management and Technology Guru Gobind Singh 
+Indraprastha University Bachelor In  Computer 
+Application 2015 72% First 
+Jawahar Navodaya Vidyalaya  
+Mungeshpur Central Board Of Secondary 
+Education 10 +2 2012 51% Second 
+Jawahar Navodaya Vidyalaya  
+Jaffar Pur Kalan Central Board Of Secondary 
+Education 10 th 2010 62% First 
+Professional Qualifications and Affiliations  
+Projects 
+Computer Proficiency  
+Languages /Personal Interests  
+Qualification 
+
+Objective
+
+Employement Details
+Currently working  on  Indian Food Laboratory Network (INFoLNET) which is organized by Food Safety and Standards Authority of India.
+I have  worked on  Official Website of Dental Council Of India.
+
+I have  worked on  Pradhan Mantri Kisan Samman Nidhi(PM-KISAN) which is organized by Ministry of Agriculture and Farmers Welfare.
+I have  worked on  Pradhan Mantri Kisan Sampada Yojana(PMKSY) which is organized by Ministry Of Food Processing Industries(MOFPI).
+I have  worked on Two Scheme Of PMKSY that is Food Testing Lab(FTL) and Creation Of Backward and Forward Linkages(CBFL) of PMKSY. 
+
+I have worked as  a junior Software developer  in Soft.e  Byte. 
+
+PROJECTS
+FOOD TESTING LAB PROJECT
+Role: Software Developer
+Environment: C#, ASP.NET,  Visual Studio. NET 4.5, ADO.NET, SQL Server 2014 
+Organization: Ministry of Food Processing Industries.
+Modules- We have developed EOI Module, Project Module 
+Key Achievements:
+• I achieved working experience of Writing Database stored procedures, Tables and Joining.
+• I have knowledge of Food Testing Lab(FTL) Project.
+
+Creation Of Backward and Forward Linkages PROJECT
+Role: Software Developer
+Environment: C#,ASP.NET,  Visual Studio. NET 4.5, ADO.NET, SQL Server 2014 
+Organization: Ministry of Food Processing Industries.
+Modules- We have developed EOI Module, Project Module 
+Key Achievements:
+• I have knowledge of Creation Of Backward and Forward Linkages(CBFL).
+
+DENTAL COUNCIL OF INDIA
+Role: Software Developer
+Environment:  C#, ASP.NET MVC, Visual Studio. NET 4.5, ADO.NET, SQL Server 2014 
+Organization: Dental Council Of India.
+Modules- Development  of DCI website.
+Key Achievements:
+•First time work on ASP.NET MVC.
+•Use and Understand the concept of MVC(Model-View-Controller).
+
+INFOLNET
+Role: Front - End  Developer
+Environment:  ANGULARJS.
+Organization: Food Safety and Standards Authority of India.
+Modules- Development of Infolnet  for  laboratory testing .
+Key Achievements:
+•Use and Understand the concept Angular-JS.
+
+FOOD  SAFETY ON WHEEL
+Role: Front - End  Developer
+Environment:  ANGULAR  10.
+Organization: Food Safety and Standards Authority of India.
+Modules- Development of FSW  for  laboratory testing .
+Key Achievements:
+•Use and Understand the concept Angular  10.
+
+
+ACADEMIC BACKGROUND
+
+TRAINING ATTEND  
+Summer Training (2018) from Naresh Information Technology, Hyderabad. 
+Take participation in Debate Competition under AKGIM Budget Enclave.
+Summer Training (2017) from Bhatia Technology, Agra  and worked on a web based projects.
+
+TECHNICAL SKILL
+OTHER SKILL 
+Excellent in Interpersonal and Decision making ability.
+Preparation of documents and reports – Feasibility, SRS.
+PERSONAL DETAIL
+
+
+DECLARATION
+I do hereby declare that the above information given by me is true and correct to the best of my knowledge and belief.
+
+Date:
+Place: Etah   						
+						 (KUSHAL PRATAP  SINGH) 
+
+
+CURRICULAM VITAE
+NISHANT GARG
+
+Mobile: +91-9411842626                                                       Email- id: nishantgarg945736@gmail.com
+
+Career Objective
+Seeking to handle increasing responsibilities and challenging assignments to harness my Technical skills, knowledge and achieve recognition. I want to be part of an environment that provides opportunity for career advancement while making significant contribution to the organization.
+
+Company Name        :        Kranti Tech Services Pvt Ltd, Noida
+Job Title                     :       Software Developer
+Duration                     :       27h Jan 2020 to Present
+Working Profile        :       Web Developer
+Projects
+
+Tata Motors E-Commerce Project (https://partskart.co.za/).
+Partskart is a Magento based e-commerce Portal of  Tata Motors in South Africa.
+Edumarshal School Management Software.
+Edumarshal provides a school  ERP Software in which there are  45+ modules .This  is based on Angular JS.
+Webnyay Project (http://webnyay.in/)
+Webnyay is based  on Gatsby and React.
+http://www.dpsjhakri.com/
+http://nis88.com/
+https://www.lphotels.com/
+http://thesanskritischool.com/
+http://kaushalyaworldschooldadri.com/
+https://www.lancersconvent.ac.in/
+http://onebeatgroup.org/
+https://handikraaft.com/
+Responsibilities
+Develop and maintain the websites according to the client requirement.
+Integrate the payment gateway in website and host the website.
+Exposure to ensuring W3C web standards compliance.
+Perform quality assurance tests on all web projects.
+Experience in Code Review & Reuse code.
+Knowledge of Hosting i.e. – how to website live.
+Fixed the vulnerability in website.
+Experience in designing User Interactive UI Web Pages and visually appealing User Interfaces with the help of HTML 5 and CSS3.
+Expertise in using source code control systems such as GIT.
+Hands-on experience using various Operating - Systems like Windows, UNIX, Linux.
+Other Skills:
+API Testing through Postman.
+Knowledge of online tool for Performance Testing (gtmatrix and google page speed).
+Basic knowledge of SEO, Digital Marketing, Paid Ads, Google Analytics.
+Knowledge of UI/UX Design using Figma.
+
+Company Name:    Codeslay Technology, Noida
+Job Title             :    Web Developer
+Duration             :    20th Nov 2018 to 30TH Nov 2019
+Working Profile:    Web Developer
+
+Projects
+http://bhartiya.news/
+http://www.hemeraglobal.com/
+https://www.blitzlearning.in/
+https://apacedigitalcargo.com/
+http://justbrahmin.com/
+http://1ss.in/
+https://auditwala.com/
+Company Name    :  Decon Telecom Pvt Ltd., Gurgaon (Haryana)
+Job Title                 :  Post Processing Engineer
+Duration                :   Jan 2018 to Aug 2018
+Working Profile   :   Preparing Report
+End Customer      :   Airtel, Nokia, Vodafone.
+
+Area of Expertise
+Working on 2G/3G/4G technology to analysis various site parameters.
+
+Technical Competencies/skills
+
+            Responsibilities
+To check the Handover.
+Check the speed of Uplink and Downlink Speed.
+Check the Orientation/Azimuth.
+Check the Network Attach Time and Network Detach Time.
+Check the Call Set up time and Call terminate time.
+Check Electrical Tilt and Mechanical Tilt.
+Check the Drive.
+
+Training
+Title                     : Deenbandhu Chotu Ram Thermal Power Plant Project.
+Durations            : 1 month (13th June, 2016 – 13th July, 2016)
+Location              : D.C.R.T.P.P ,Yamunanagar, Haryana.
+
+            Title                    : Embedded and Robotics
+Durations           : Ten days (13th July, 2015 – 25th July, 2015)
+Institute              : Bharat Institute of Technology, Meerut (U.P.) India.
+
+Title                    : C Language
+Durations	   : Ten days Training in 2014 
+Institute              : Bharat Institute of Technology, Meerut (U.P.) India.
+
+Projects
+Mini Project on Informative Website using Wordpress.
+Mini project on Street Light Controller.
+Major Project on Wireless controlled single 3DOF Robotic Arm.
+
+
+Professional Qualifications
+B.Tech from Bharat Institute of technology from Meerut (2017 Batch) under AKTU University, Lucknow, U.P. with 68.72% (First Div).
+
+Educational Qualifications
+Intermediate from CBSE, (U.P.) with 54.04%.
+High School from CBSE, (U.P.) with 6.8 CGPA.
+
+Personal Details
+
+Declaration:
+I here by declare that the furnished above are true to the best of my knowledge and belief.
+
+Place: Muradnagar                                                                                                                Nishant Garg 
+
+
+
+
+
+
+
+Pawan  Kumar  
+Mobile:  8851617413     Email :pawanraj5722@gmail.com  
+ 
+ 
+Professional Summary  
+ 
+ 5+ years of experience in Development & Maintenance  of Enterprise Web Application  
+ Performance tuning  
+ Excellent in writing Queries, Stored procedures, Functions, using  MySql,  SQL Server  
+ Well versed with ASP.Net core and Angular  
+ Working knowledge of Node.js  
+ Currently working with SAAS mobility  Technology  solutions  since June 2020  
+ Previously worked with Limitless mobility Pvt. Ltd  
+ 
+Technical Skills  
+ 
+Backend  C#.Net, Core API 2.1,3.1 , MVC 
+Frontend  Angular  8,9 
+Database  SQL Server , MySql  
+Web ASP.NET, ASP.NET MVC, HTML, CSS, Boot strap, Jquery  
+Version Control  Git 
+Tools  JIRA 
+ 
+Academic Qualifications :  
+ 
+MCA UPTU  in 2013 -2015 
+B.Sc. in Agra  2009-2011 
+H.S.C In Uttar Pradesh Board  2008 
+S.S.C In Uttar Pradesh Board  2006 
+ 
+Projects Undertaken  
+ 
+SAAS Mobility Technology LLC  
+ 
+Title: Hotpack   
+Client : Hot Pack Global     
+Environment: .Net Core  API 3.1 , Angular  9, MySQL Server  
+ 
+SAAS mobility  is a service -based company deals in order  and delivery  processing system. Here I got opportunity to 
+work with user permission, order manage, delivery system, and return.  
+ 
+ 
+Role – Develop  of Authorize , delivery assign to delivery agent  and order by presales, vansales  portal and Back- 
+development using Angular . API development in .Net Core . 
+ 
+ 
+  Limitless Mobility Solutions Pvt. Ltd  
+ 
+Title: UVM (Universal Vending Machine)  
+Client : Vendiman PVT. LTD      
+Environment:  C#, Core Api 2.1, MySql Server, Angular , RabbitMQ  
+ 
+UVM deals with healthy meals and beverages by installed machine.  It makes no time consume to customers  having 
+meals by smart micro retail and automated solution. Vendiman company provide cards to customer for its services, it 
+able to use credit card, debit card and and others.  
+ 
+Role – Created user functionality, Worked with inventory management , Created  APIs, database . 
+ 
+Title: SFA 
+Client : Limitless Mobility Solutions Pvt. Ltd      
+Environment:  C#, Core MVC, MySql Server  
+ 
+SFA deals with User and delivery system,  User Journey Plan . 
+ 
+Role – Created user functionality, Worked with Journey Plan , Created APIs, database.  
+ 
+Title: Asset Management  
+Client : Limitless Mobility Solutions Pvt. Ltd      
+Environment:  C#, MVC, MySql Server  
+ 
+Asset Management deals with company products (like Chiller machine )  where installed in customer’s shop. It makes 
+Service to customers for installing machine and replace and repair to machine . 
+ 
+Role – Created user functionality, Worked with inventory manag ement , Created APIs, database.  
+ 
+Personal Detail  
+Date of Birth:  17th Jube 1989 
+Address:  41/135 , Nagla Deem , Post Dhandhupura , Tajgang, Agra, Uttar Pradesh  
+Nationality:  Indian  
+Marital Status: Married  
+Language:  English & Hindi  
+
+SAHIL
+TRIVEDI
+
+1sahiltrivedi@gmail.com
++91 9891728729
+Delhi, India
+ linkedin.com/in/sahiltrive
+
+
+
+
+PERSONAL DETAILS
+Nationality :Indian
+GitHub :github.com/Coder-Sahil
+HackerRank:hackerrank.com/1sahiltrivedi
+HackerEarth:hackerearth.com/@Sahil.Trivedi
+SKILLS
+C Language
+C Plus
+C#.Net MVC
+SQL
+HTML/CSS
+Java
+Javascript
+Angular/React *
+Python *
+INTERESTS
+Learning/Reading About New Technologies
+Upgrading/ Learning Skills
+Playing Games, Watching Movies/Shows
+LANGUAGE
+English - Speak, Read, Write
+Hindi - Speak, Read, Write
+EXTRA
+Introduction To CyberSecurity - From Cisco
+CyberSecurity Essentials - From Cisco
+CyberSecurity Fundamentals Certiﬁcate - From
+Certiprof13 May 2019 -
+01 Dec 2019
+01 Dec 2019 -
+Present
+2019
+2017
+2014
+2011
+2009
+EXPERIENCE
+Xcelserv Solution Pvt Ltd.
+Trainee - Software Developer
+Xcelserv Solution Pvt Ltd.
+Software Developer
+Primary Technology:
+Working on C#, Asp.Net,
+.NetCore, MVC, SQL domain.
+Primary Responsibility :
+Handling/Creating/Mantaining
+Travel Related .Net Api's
+EDU CATION
+Jagannath Institute Of
+Management Sciences (JIMS)
+Master Of Computer
+Applications ( M.C.A.) 
+GPA - 3.3
+Delhi Institute Of Computer
+Science / NEILIT
+DOEACC 'A' Level 
+GPA - 2.7
+Delhi University
+Bachelor Of Commerce (
+B.com) 
+GPA - 2.7
+J.D. Tytler School - C.B.S.E.
+Intermediate - 12th 
+GPA - 3.0
+J.D. Tytler School - C.B.S.E.
+High School - 10th 
+GPA - 1.7
+TOOLS/UTILITIES KNOWN
+Git/GitHub, Visual Studio, VS Code, Postman,
+Soap UI, Ms Ofﬁce, etcScrum Fundamentals Certiﬁcate - From
+Certiprof
+Certiﬁcate for Attending MS Ofﬁce Workshop
+NIIT Certiﬁcation for IT Wizard Curriculum
+Worked as volunteer in college fest(2012- 2013)
+Worked as Event Manager in college fest(2013-
+2014)
+Participated in Competition like treasure hunt,
+Rangoli
+Participated in I.T. and Economic Seminars
+CERTIFICATION / E- CERTIFICATION
+Az-900 Microsoft Azure Fundamentals
+From Microsoft
+Fundamental Of IoT
+From Stanford E - University
+Fundamental Of Digital Marketing
+From Google Digital Garage
+MongoDB (M001, M100, M103)
+From MongoDB University
+Fundamental Of Python
+From Upgrad
+'CCC' Course
+From National Institute Of Electronics And
+Information Technology (NIELIT)
+Tally 7.2 Basic
+From Delhi University - Zakir Husain College
+PROJECTS
+Banking System - C Language - A Level
+Project that uses various functionality of C to
+digitized the Banking record for better
+maintaining the data over the Computer. Each
+functionality of the project is divided into
+Various module for better understanding and
+maintainability.
+Cab Management System - Java, SQL - MCA
+Final
+Project that uses various functionality of Java to
+provide an facility to manage the tasks related to
+the Cab Booking, management and other related
+aspects. Project can be used as an individual Cab
+Management platform or integrated to Speciﬁc
+company Booking system. SQL is used to
+maintain and store the database.
+
+CURRICULUM VITAE
+Current:- 35k, Expectation:- 45K
+
+Santosh Kumar
+
+B.E.(Computer Engg.) Mob. No. +91  7266895785 ,+91 7530824177
+
+Email: santoshkumar5dec@gmail.com 
+	
+Passport No. R7506800
+
+CAREER OBJECTIVE
+To work with a high level of sincerity and hard work to achieve marked goals and to acquire the 
+best solution for fulfillment of organizational need.
+ORGANISATIONAL EXPERIENCE:
+
+Currently 8 Years 1 months Software Development Experience:  
+Total  11 years 1 months experience (Development(Currently)  + Teaching(previous-3 years))
+
+Recently working with PelSoft Labs Pvt. Ltd. (New Delhi) as Software Developer from June-2016 to 
+till now
+Worked with DFH Technologies. Ltd.(Gurgaon-Haryana) as Software Developer from Jan-2016 to 
+-June-2016
+Worked with GoDunia Infonet Pvt.Ltd.(Gurgaon-Haryana) as Software Developer from jan-2014 to 
+dec-2015
+Worked with BMC Software Pvt. Ltd.(Pune-Maharastra) as R&D Technical Associate for 4 months
+GATE -2013 qualified with score: 370(jul-2013) / 361(jul-2014)
+
+Teaching  3 years experience (previous)
+DEHRADUN INSTITUTE OF MANAGEMENT AND TECHNOLOGY (Uttarakhand Technical University)
+
+June '2 years 10 months experience as Faculty _ Computer Science Location: Dehradoon
+Major subjects of Interest are Computer Fundamentals, Mathematical foundation of computer science, 
+Data Structure, OS(operating System), Digital Electronics & logic design, Principle of compiler 
+design, computer networks ,computer Algorithm, Database system concepts, software 
+engineering(Analysis & design),.
+Professional Experience: 4 months experience with Software Company named as BMC Software India Pvt. Ltd., designation as Research & Development Technical Associate.
+SKILL SET
+8 years : ASP.net( C#), Javascript,Jquery,C SS, Ajax,SQL
+ 6 months : Angular JS   
+Programming Languages : C#, Angular JS ,SQL, Pl/Sql,, Ajax, JavaScript, CSS, HTML, ASP.
+Operating Systems : Windows XP, Linux (Network and basic system programming) ,Windows-7,windows -10
+Database : Oracle, MS-SQL Server 2017, MS-Access
+Windows services in asp.net C#
+Design Methodologies : Unified Modeling Language Technique.
+PROJECTS:
+Projects handled with the Company:
+Kit19 Time tracker(Composer):
+Environment and Tools used: Windows 10, Visual Studio 2017, ASP.NET.
+Language Used : C#
+Technologies Used : Asp.net
+Database Used : SQL-Server 2017  in API
+KIT19 (SMS & CRM based web-software):
+Environment and Tools used: Windows 10, Visual Studio 2017, ASP.NET AJAX control toolkit.
+Language/Scripts/others Used : C#, Javascript, Jquery,CSS,Bootstrap
+Technologies Used : Asp.net, Ajax
+Database Used : SQL-Server 2017
+KITEVER (Socio-commercial+mCRM web based software):
+Environment and Tools used: Windows 7, Visual Studio 2013, ASP.NET AJAX control toolkit.
+Language/Scripts/others Used : C#,Angular js, Javascript, Jquery,CSS,Bootstrap,API,Webservices
+Technologies Used : Asp.net, Ajax
+Database Used : SQL-Server 2008
+KITEVER (Dashboard web based ):
+Environment and Tools used: Windows 7, Visual Studio 2013, ASP.NET AJAX control toolkit.
+Language/Scripts/others Used : C#,Angular js, Javascript, Jquery,CSS,Bootstrap,API
+Technologies Used : Asp.net, Ajax
+Database Used : SQL-Server 2008
+User & User Activities Maintenance Software:
+Environment and Tools used: Windows 7, Visual Studio 2010, ASP.NET AJAX control toolkit.
+Language Used : C#
+Technologies Used : Asp.net, Ajax
+Database Used : MS Access
+Hyundai Software:
+Environment and Tools used: Windows 7, Visual Studio 2010, ASP.NET AJAX control toolkit.
+Language Used : C#
+Technologies Used : Asp.net, Ajax
+Database Used : MS Access
+School Management Software:
+Environment and Tools used: Windows 7, Visual Studio 2010, ASP.NET AJAX control toolkit.
+Language Used : C#
+Technologies Used : Asp.net, Ajax
+Database Used : MS-SQL Server 2008/MS Access
+BackOffice web based Software project:
+Environment and Tools used: Windows 7, Visual Studio 2010, ASP.NET AJAX control toolkit.
+
+Language Used : C#
+Technologies Used : Asp.net, Ajax
+Database Used : MS-SQL Server 2008/MS Access
+Shoes based business management software:
+Battery Dealing Project:
+Faculty Management Software:
+Library Management Software:
+Medical Store Management Software:
+Hotel Management Software:
+Hostel Management Software:
+Environment and Tools used: Windows 7, Visual Studio 2010, ASP.NET AJAX control toolkit.
+Language Used : C#
+Technologies Used : Asp.net, Ajax
+Database Used : MS-SQL Server 2008/MS Access
+
+SQLPE (Sql Programmer expert)
+Sponsored by:BMC Software, Pune.
+Environment and Tools used : Windows XP, VC++ ( Win32 API and native calls to create client to 
+access driver),Wrapper in VC++ component, wrapper in VB component, oracle debugger(SFII011) in VB, 
+SQL Debugger(SFII004) in VC++, Sybase debugger in VC++, report engine(SFIO001) in vb.net, script 
+engine(SFII002) in vb.net .
+Description: Basically, BMC sql programmer expert product provides multiple & concurrent 
+connections to multiple databases simultaneously. It provides debugger tools specific to databases. 
+Main features of this product are script generation and report generation. We can generate the 
+reports regarding objects created in databases and can execute scripts collectively to create same 
+objects on another databases. Second important feature is debuggers respective to database.
+
+ACADEMIA
+B.E. from Army Institute Of Technology (AIT), Pune, Pune University (PU) in 2008 ( 61.73%)
+Intermediate (PCM) P. D. Inter college,Gaighat, Ballia(U.P.Board) ( 67.4%)
+High School Ram Siddh ,H. S. School , Sonawani , Ballia,(U.P.Board) (73.5%)
+
+PERSONAL VITAE
+Name: Santosh Kumar
+Father's Name: late Rajendra Prasad
+Gender: Male
+Date of Birth: 05-12-1984.
+Nationality: Indian
+Marital status: Married
+Address:   Plot no _ 79 A First floor, Gali no _ 6, Sai enc lave,Block-g3,Uttam Nagar  
+Delhi-110059
+Contact No. : 7266895785,7530824177
+Email Id: santoshkumar5dec@gmail.com
+Declaration:
+I declare that the above information is true and correct to the best of my knowledge.
+Date: (Santosh Kumar)
+Place:
+
+
+                                                                           Curriculum Vitae
+
+Sarvjeet Singh
+Village Sadhnauli , Tehsil Nabha 
+District Patiala (Punjab)-147202
+Email Id:-sarvjeetsingh73@gmail.com                                                            
+Contact No. :-9109637226
+To work in an organization where I can enhance my skills and capabilities and contribute in the growth of the organization.      
+Working with Bliss It Solutions Pvt Ltd (Wize Brains Solutions Pvt Ltd)as Software Developer  from 22 April 2019.Worked on Zoho Crm , Twilio , Console app(using C#) ,  window service(using C#) . 
+Worked with PRATHAMSOFTCON Pvt Ltd as Junior Software Developer   using VISUAL BASIC, JAVASCRIPT , HTML,CSS and ANGULAR JS coding language from August 2017 till February 2019 (1.6 years of experience ) .
+                 Framework-.NET 4.0,4.6.2, 4.7.1
+                 IDE-Visual Studio 2013, 2017 & 2019 , SQL Management Studio 2008R2 & 2014
+Worked for installation & commissioning of Nokia 3g & 4g BTS  as BTS engineer  on Bharti Airtel Project  for 1.5 years with Uni-info telecom services
+
+
+
+
+Operating System
+             Windows
+Programming Languages
+              C#.Net, Asp.Net, Html , CSS,  JavaScript, Angular JS, SQL, Deluge script 
+Software
+             Visual Studio 2019, Visual Studio 2017,Visual Studio 2015,Visual Studio 2013, SQL Management Studio 2008R2, SQL Server Management  Studio 2014
+ 
+Project to develop application for RCVP Noronha Academy
+              Objective:-Application to get details of training conducted by RCVP for government employees.        
+                                  Registration of candidates ,fees for  type of training, training time table, online       
+                                   Hostel room status, reports, certificates and feedback
+HRMS project 
+Objective:-Application for Human Resources Management  System having Master pages e.g.     
+                     Grade  master, Department master , Post master etc. Transaction and Report pages
+Finance project
+Objective:-Project to develop application for finance related requirement having Master pages         
+                                   e.g.  Bank master, Branch master, Account master etc. Transaction  and Report pages
+VFPrelims console application using csharp and devexpress tools
+Objective:-Application for showing details of materials , price, suppliers and orders .And to store the orders of the materials supplied by supplier including quantity and price. And generate report of whole orders and print it. 
+        
+Major Training on EMBEDDED SYSTEM from IETE Bhopal
+Attended 2 weeks classes on Object Oriented Programming using C++ by NIIT
+
+
+Sincere and Hard working towards my responsibilities.
+Ability to work in team with challenging personality.
+
+NAME                                                                     SARVJEET SINGH
+Father’s Name                                                      Raghuveer  Singh
+Mother’s Name                                                    Krishna Kaur
+Date Of Birth                                                         10-Sep-1990
+Maritial  Status                                                     Unmarried
+Gender                                                                   Male
+Nationality                                                             Indian
+Domicile                                                                 Madhya Pradesh
+Language can write                                              English & Hindi
+Language can speak                                             Hindi, English & Punjabi 
+
+             I here by declare that all the information given in this application is true, complete and correct to the best of my knowledge and belief. I understand that in the event of my information being found false and incorrect or ineligibility being detected my candidature for appointment in liable to be cancelled.
+
+Place: Bhopal
+Date:                                                                                                                                                      Sarvjeet Singh
+
+
+
+
+VINAY KHARAGE   2021   
+ 
+Page 1 of 4   
+13/380/2 Kulkarni mala, Near D -Mart,      Email : kharagevinay@gmail.com  
+Ichalkaranji.         Contact No .: +91  8412981213  
+Tal - Hathkalangle , Dist - Kolhapur ,           
+Maharashtra  (416115). 
+   
+Experience Summary  
+● 3 years of experience with front -end development using HTML 5, CSS 3, 
+Bootstrap 4 and other relevant technologies . 
+● Solid experience with responsive design techniques . 
+● Thorough understanding use of modern development tools such as GIT or Visual 
+Studio . 
+● Exceptional problem -solving skills . 
+● Understanding of key design principles.  
+● Designing  and documenting requirements for business applications . 
+● Developing front ends for various browsers and devices . 
+● Expert level programming skills in HTML5, CSS3, Bootstrap4, Photoshop,  Figma ,  
+PSD to HTML . 
+● Experience design  on multiple browsers and devices . 
+● Experience with Angular6  and Wordpress  preferred . 
+● 1 year  with Angular6, JavaScript  and Typescript.  
+● Fast learner . 
+● Ability to work within and across teams . 
+ 
+● Programming Languages  - Javascript, Typescript , Core PHP . 
+● Web/Scripting Languages  - Angular 6. 
+● Operating System - Windows 7, 8.1,10.  VINAY KHARAGE   2021   
+ 
+Page 2 of 4   
+● Tools/DB - Mysql, Microsoft Office (Word, Excel, PowerPoint  etc.) 
+● Knowledge of technology - PHP, React JS, Angular JS.  
+ 
+Work Experience  
+Benchmark IT Solutions Pvt. Ltd :  
+Role: UI Developer   
+Duration: 1 3th Nov. 2019  – Till Date 
+Responsibilities & Contribution:  
+● Develop  front ends for various browsers and devices . 
+● Work with other developers to ensure that the website is functional and 
+visually appealing.  
+● Plan the layout of the website.  
+● Ensure that the website is optimized for various devices.  
+ 
+CloudCore  Innovation lab Pvt. Ltd : 
+Role: UI Developer.  
+Duration: Mar 2019 to Sep 2019  
+Responsibilities & Contribution:  
+● Learn Angular 6, Javascript, Typescript.  
+● Making payment gateway page using angular6.  
+ 
+Umbrella Systems Pvt.Ltd : 
+Role: Web Developer.  
+Duration: Jun 2017 to Jan 2018  
+Responsibilities & Contribution:  
+● Making E -commerce website using HTML, CSS, Bootstrap , PHP, MySQL.  
+● Collaborate with other team members and stakeholders . 
+ VINAY KHARAGE   2021   
+ 
+Page 3 of 4   
+Project Summary  
+1.  6-in-1 
+Role - UI Developer.  
+Technology - HTML, CSS3, Bootstrap4, Photoshop.  
+Description - 6in1 is a US government project regarding real state, revenue 
+forms.  
+ 
+2. TheJoyCatcher  
+Role - UI Developer.  
+Technology - Figma, Photoshop.  
+Description - TheJoyCatchers  Application is a social networking app which 
+provides one place in the world to find person -to-person Inspiration and Joy  
+ 
+3. Diaper -to-Home  
+Role - UI Developer  . 
+Technology - Wordpress . 
+Description  : Diaper To Home is a e -commerce website which is top player 
+in the category Diaper Wholesalers in the Pune. This well -known 
+establishment acts as a one -stop destination servicing customers both local 
+and from other parts of Pune.  
+ 
+4. Fresh -Fruits    
+Role - UI Developer  
+Technology - Figma, Photoshop.  VINAY KHARAGE   2021   
+ 
+Page 4 of 4   
+Description - Fresh Fruits is a e -commer ce website. E -Commerce websites  
+are online portals that facilitate online transactions of goods and services.  
+ 
+ 
+Educational Qualification  
+Shivaji University Kolhapur  
+ M.C.A (Master of Computer Application)   - 2016  
+ B.C.S (Bachelor of Computer Science)   -  2014  
+ 
+ 
+Other Certifications  
+● UI Developer  (Naresh Technologies - Hyderabad ) 
+● Angular JS (Sathya Technologies - Hyderabad)  
+ 
+Personal Info.  
+● Name : Vinay Kharage  
+● Birth Details : Feb. 27, 1991  
+● Citizenship : India  
+● Gender : Male  
+● Marital Status : Married  
+● Languages Known : Speak and write (Marathi, Hindi and  English)  
+
+      RESUME       
+   
+                 
+   
+   
+                         
+                                                                                       
+CAREER OBJECTIVE 
+ 
+Seeking for work in globally competitive environment on challenging assignments where I can 
+utilize my abilities and learning skills to best use and make my effective contribution to an 
+organization for a bright and rewarding career.  
+ 
+PROFESSIONAL EXPERIENCE / TRAINING 
+   
+Company                 :  Aquevix solution Pvt. Lmt.   Duration: July-2017/present  
+Position                    :  java full stack developer  
+Job Description        :  main role in organisation is Java developer currently working on the  
+   Jhipster   which is a full stack development framework with   
+   java (springboot) + angular2 along with liquibase, smartgit etc .   
+Project                    : Attribute management system :-  It is basically a web application which  
+   fetch data from the magento system and store it. And after you can edit or  
+   add the attribute information from Web UI and then return back update the 
+   data to the magento system.   
+                                  : Chiropractors Web App : - It is a doctor (chiropractors) finder app which 
+   is located in Canada. It include the premium and free account subscription  
+   of the user monthly/yearly (recurring payement ) clinic and account   
+   management of doctor.  
+                                  : Restaurants finder app : - it is basically a app which find (google api)  
+   the restaurants on the basis of address you search. And include restaurants  
+              managements system. 
+                                  : YSH (your save hub) : - it is basically a web app which is used for  
+   anonymous complain register and rewards management system for   
+   companies. 
+                                 : Admin Dashboard (React+Springboot) : - it is an admin dashboard for    
+   one of our core project EasyMCM use redux/mobx for the state   
+   management and vector map implementation.                                          
+Roles/Responsibility: 
+ As a senior software developer Responsible for time bound delivery of assigned 
+projects/products. 
+ Take initiatives in delivering high-quality products.   
+ Work towards building a coherent working environment for everyone.   
+ Single handle whole projects. 
+ 
+Company                 :  Headerlabs Infotech Pvt. Lmt.   Duration: March-2017/July-2017  
+Position                    :  Software Engineer  
+Job Description        :  main role in organisation was JS developer and did work on the   
+   Hybrid app development using angular and ionic framework with   
+                                                                                                             VIRESH KUMAR  
+Email  vireshkumarshanu013@gmail .com 
+Mobile no: -+918527404506  
+   Cordova/PhoneGap plugins. And admin dashboard for one of application  
+   in angular and node 
+Project                      : Mrl (MyResidentLinc), Daab web/mobile Application. 
+Roles/Responsibility: 
+ Responsible for time bound delivery of assigned projects/products. 
+ Take initiatives in delivering high-quality products.   
+ Work towards building a coherent working environment for everyone.    
+ 
+Company                 :  Softcrayons tech solution Pvt. Lmt.   Duration: Feb-2016/Feb-2017  
+Position                    :  Software Engineer Trainee 
+Job Description        :  main role in organisation was Java+ angularJS developer      
+Project                      : User management system, web development 
+Roles/Responsibility: 
+ Responsible for time bound delivery of assigned projects/products. 
+ Take initiatives in delivering high-quality products.  
+ 
+ACADEMICS 
+       
+      Qualification             Board/University         Year of passing         Percentage  
+B.Tech ( IT)   Dr. A.P.J. AKTU,U.P. Lucknow 2017         64.0 
+       12th         C.B.S.E.                 2012        66.6 
+       10th         C.B.S.E.  2010         70.3 
+ 
+TECHNICAL SKILLS   
+ 
+                                                                   Full Stack Developer 
+technology                                               Frontend                            backend 
+Language JavaScript, typescript, HTML5, 
+CSS3 , SASS, LASS,  Java (J2EE), Python  
+framework AngularJS, Angular, ReactJS, 
+VueJs Bootstrap, ionic3 Hibernate, liquibase, Spring, Springboot, 
+springdata (JPA) Struts2,  Node.js,  Express 
+Databases Indexed DB MySQL ,  mongoDB,  postgreSQL 
+Tools Bower, angular-cli, grunt, npm 
+nvm, yarn webpack-3 Maven 
+Testing Tools Jasmine, Protractor Test NG , JUnit 
+IDE /editor Brackets, VScode,  Webstorm  Eclipse, STS, Intellij 
+Source Control  GitHub GitHub 
+ 
+ 
+PROFESSIONAL SKILLS 
+ 
+ Quick learner and Smart worker. 
+ Excellent verbal and personal communication skills. 
+ An enthusiastic person with highly motivated and leadership skill. 
+ ADDITIONAL SKILLS/TRAINING    
+  
+ 
+ Attended Digital marketing workshop at  NGIT GLOBAL SOLUTIONS  by CEO Nitin 
+Goswami  in July 2016. 
+ Attended the online class of Hadoop2.x & Spark from Skillspeed. 
+INTERESTS    
+ 
+ Internet Surfing. 
+ Eager to learn new technologies and methodologies. 
+ Go Through from articles, blogs, newsletter and e-books, Watching Cricket. 
+ 
+PROJECT 
+ 
+1. Title:   Smart-instructor (Project in B.tech final year)               Duration:     Aug-2016/present 
+    Role:              full stack development.  
+   Technology Used: AngularJS, Spring, Hibernate, Bootstrap, Html5, and CSS3.  
+                                  
+Description: the eLearning-Portal consists of three functional modules: an enhanced Student module for 
+registration, login, Profile, view/download subject details, read/comment article & blogs, chat with other 
+user/tutor. Tutor module includes registration, login, Profile, upload subject materials, mange articles. 
+And Admin module for Mange User activation & discipline, course/subject details, manage the various 
+level coding competitions & other activities. 
+ 
+PERSONAL DETAILS 
+ 
+Father’s 
+Name: Mr. Mukesh 
+Kumar   
+Date of Birth:  20th Aug 1994  Nationality:  Indian 
+Sex: male Marital Status:  Single 
+Permanent Address:  H no A-336, 33 futa road, Shiv Vihar, Karawal Nagar  
+North-East Delhi, PIN-110094  
+ 
+DECLARATION  
+ 
+I pledge and pronounce that the information mentioned above is correct of the best of my 
+knowledge.  
+ 
+ 
+ 
+DATE: ………                      Viresh Kumar  
+ 
+ 
+Angular JS
+•SPA
+•Platform Independent
+Bootstrap 3.0
+•mobile-first approach
+•Optional theme
+HTML5, CSS3, JQuery
+•Local Storage
+•Animations
+Spring
+•Lossely Coupled App. ( IoC, DI ) 
+•Integration and AOP
+Hibernate
+•ORM
+•DB independent
+MySQL
+•Replication
+•InnoDB
+
+
+                                                                                                                                                                 
+                                                                                                                                                                                                           Zakir Hussain                                                                                                                               F-57/A, Shaheen Bag, New Delhi
+Sr. Software Engineer                                                                                                                 Contact No: +91-9718160834
+                                                                                                                                                                       Email: hussainzakir244@gmail.com
+                                                                                                                                                                                                                                                                               
+
+CAREER OBJECTIVE
+
+I have good technical acumen and right now I am looking for a challenging role where I can utilize, my technical & logical Skills. I am also looking for that right opportunity which can help me become an asset for the organization. I have hands on knowledge on Microsoft technologies.
+
+ EXTENSIVE EXPERIENCE
+
+Having 7 Years of extensive experience of Microsoft Technologies ASP. NET MVC 4, Web API 2 Years, C #, SQL Server 2012 and maintenance (Incident manager, Problem manager & change request manager).
+Good exposure of Microsoft SQL Server Database Backup, Restore, Import & Export data, Write SQL Query, Create Tables, Views, Index, Function, Stored Procedure and Triggers etc.
+Good experience of JavaScript, jQuery, Ajax, HTML, CSS, Angular 10
+Proficient understanding of code versioning tools SVN.
+Ability to learn and development with new technologies quickly.
+
+PROFESSIONAL WORK EXPERIENCE
+
+I am working in Mindgate Solution Pvt. Ltd as Sr. Software Developer from 22th Feb 2019 to till date
+I have worked in Limitless Mobility Solutions Pvt. Ltd as Software Developer from 14th NOV 2016 to 18th FEB 2019.
+I have worked in Haut IT Solutions Pvt. Ltd as Software Developer from 01st Dec 2013 to 10th Nov 2016.
+
+PROFESSIONAL QUALIFICATION:
+
+MCA from Integral University Lucknow in 2010- 2012.
+BCA from LN Mishra College Muzaffarpur in 2006-2009.
+12th from Maharaja College Ara in 2004-2006.
+10th from B.S.E.B in 2004
+
+MINDGATE PROJECT SUMMARY:
+Project Name: ARPIT (Accounting Reconciliation Portal Indirect Tax) 
+Project Sponsor: MindGate
+Client- Government of India
+Environment: ASP.NET MVC 4, C#, SQL Server 2012, Web API, JAVASCRIPT, JQUERY. 
+
+Project Description: ARPIT is built for “Central Board of Excise and Customs (CBEC),” which is a part of the “Department of Revenue” under the Ministry of Finance, Government of India. ARPIT deals with various stake holders such as GSTN, RBI, Authorized banks, Tax Authorities, Public financial management system (PFMS). ARPIT helps to carry out the GST's accounting, reconciliation, refunds, reporting, banking arrangement and performance monitoring of system for indirect tax collection and refund, with the help of well-established integrations between the various Modules of ARPIT and integration between various stakeholders to ARPIT. Central account system is using .net as backend.
+
+My Responsibilities:    
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+Create different types of technical documents for ARPIT (Application Information Document, TDD, Information Systems Division)
+Limitless Mobility PROJECT SUMMARY:
+Project Name: MH Enterprises LLC
+Environment: ASP.NET MVC 4, C#, SQL Server 2012, Web API, JAVASCRIPT, JQUERY. 
+Project Description: Limitless Mobility is a hub of revolutionary thinking where solutions of tomorrow are brought to life. Headquartered in Noida, India. We are a community of entrepreneurs, developers, thought leaders and professionals pushing the boundaries of technological disruption each and every day. It is a mobile application as well as web application for manage data. The main purpose of this application is to manage mobile app order. And also maintain payments. We are also creating different types of report.
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+
+Project Name: MeTL
+Environment: ASP.NET, C#, SQL Server 2008 R2, HTML, CSS, JAVASCRIPT, JQUERY. 
+Project Description: It is a web based mobile application. The main purpose of this project is to handle Inventory management System. It’s also handled stock of items and maintain invoicing and purchasing for client. This projects also capable to generate different types of reports.
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+
+Project Name: SalesZ 
+Environment: ASP.NET, C#, SQL Server 2008 R2, HTML, CSS, JAVASCRIPT, JQUERY. 
+Project Description: It is also Mobile App as well as Web application to maintain orders and payment, Items or stocks. The main purpose of this project is that sales man goes to market and take order and that order delivery by delivery agent. 
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+
+Project Name: Inventory Management
+Environment: ASP.NET, C#, SQL Server 2008 R2, HTML, CSS, JAVASCRIPT, JQUERY. 
+Project Description: The main purpose of this project is managed stock of warehouse.
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+HAUT IT PROJECT SUMMARY
+Project Name: GoNut
+Environment: ASP.NET, C#, SQL Server 2008 R2, HTML, CSS, JAVASCRIPT, JQUERY. 
+Description: In Event technology I start my career as a web developer and learn how to implement a real-world problem into an application. Total worked 4-6 major web project. It is a web-based application. GoNut handle order from user and mange stock of company. It’s also handled invoicing reporting and payment of company business. This application has one login for use.
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+
+Project Name: Aquatic India Water Park
+Environment: ASP.NET, C#, SQL Server 2008 R2, HTML, CSS, JAVASCRIPT, JQUERY. 
+Description: Aquatic India is a water Theme Park owned and operated by Vishal Water World Private Limited Located in Kolkata. This is using our web-based application. The main purpose of this application to book ticket from here and pay payment online & get ticket. It also needs a login and password for using.
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+
+Project Name: MyraFasion
+Environment: ASP.NET, C#, SQL Server 2008 R2, HTML, CSS, JAVASCRIPT, JQUERY. 
+Description: It is job portal web application. In this project there are 3 module Admin, User and Employer. Here job seeker search job according to our skills & filter skill wise job. 
+My Responsibilities: 
+
+Analysis, Coding, Database Design, software deployment.
+Write SQL Query, Create Tables, Views, Index, Function, And Stored Procedure.
+Developed different type of Dashboard according to client requirement.
+Fixed defects and bugs of all dashboard.
+
+PERSONAL SKILLS:
+
+Dedication towards work and organization responsibilities.
+Good communication and presentation skills. 
+Good interpersonal skills.
+
+DECLARATION:
+                         
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+
+DATE: ________________PLACE:__________________
+
+

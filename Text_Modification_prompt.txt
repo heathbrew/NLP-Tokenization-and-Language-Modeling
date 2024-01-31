@@ -1,0 +1,13 @@
+modify for text dataset 
+define all functions , use data class , remove yaml and define functions defined in mlProject
+
+give modified code
+
+modify for text datset like this 
+# Read the dataset from a text file
+file_path = "dataset/Angular Resume.txt"
+with open(file_path, 'r', encoding='utf-8') as file:
+    dataset_text = file.read()
+
+use logger and give modified code
+
